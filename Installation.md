@@ -49,7 +49,7 @@ And pip will list candidates. This method works well on other python packages.
 ```python
 import tensorflow as tf
 ```  
-* It is done if there is nothing happened. Or you need to install some dependency packages.   
+* Installation is completed if there is nothing happened. Or you need to install some dependency packages.   
 ## Finally  
 * If you want to use the old python, just start it in system command line.  
 * If you want to use the TF2 python, you need to activate the TF2 conda environment then start python. 
